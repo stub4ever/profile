@@ -1,0 +1,100 @@
+body {
+  font-family: 'Open Sans', 'Montserrat';
+  background: #FCFCFC;
+  margin: 0;
+}
+
+
+h1, h2{
+  color: #DD5555;
+}
+
+h4{
+  color: #3B3B3B;
+}
+
+h1 {
+  font-weight:700;
+}
+
+p {
+  color: #3B3B3B;
+  line-height: 1.5;
+}
+
+ul{
+  padding-left: 0;
+}
+li {
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+  margin-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #DD5555;
+}
+
+.text_center{
+  text-align: center;
+}
+
+a:hover {
+  color: #ababab ;
+}
+
+.home_container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.info_container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.white_card {
+background-color: #ffffff;
+padding: 10px 0 10px 0;
+margin: 0px 0 30px 0;
+box-shadow: 0px 0px 12px -7px rgba(0,0,0,0.66);
+}
+
+.card_radius {
+  border-radius: 10px;
+}
+
+.image_cirkel > img {
+  margin-top: 45px;
+  border-radius: 50%;
+}
+
+.description {
+  font-size: 1.1rem;
+  width: 65%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+table {
+  margin-top: 15px;
+  display: inline-table;
+}
+
+td {
+  float: left;
+}
+
+hr {
+    display: block;
+    border: 1px solid #F8F8F8;
+    padding:0;
+}
+
+
+
+
+
+
